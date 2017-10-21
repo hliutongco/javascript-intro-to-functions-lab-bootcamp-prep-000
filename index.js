@@ -6,4 +6,4 @@ function logShout(string) {
   console.log(string.toUpperCase());
 }
 
-logshout("Hello");
+logShout("Hello");
